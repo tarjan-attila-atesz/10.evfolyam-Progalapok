@@ -1,0 +1,9 @@
+.img-greyscale {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+}
+
+.img-sepia {
+    filter: sepia(100%);
+    -webkit-filter: sepia(100%);
+}
