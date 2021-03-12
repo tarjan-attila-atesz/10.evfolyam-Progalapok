@@ -18,4 +18,3 @@ function init() {
     $('gomb').addEventListener('click', hello, false);
 }
 window.addEventListener('load', init, false);
-console.log("test")
