@@ -1,7 +1,7 @@
 ﻿Hivatkozások:
 -------------
 
-Johannes Gutenberg -> https://hu.wikipedia.org/wiki/Johannes_Gutenberg
+Johannes Gutenberg -> 
 Alois Senefelder -> https://hu.wikipedia.org/wiki/Alois_Senefelder
 William Henry Fox Talbot -> https://hu.wikipedia.org/wiki/William_Henry_Fox_Talbot
 
