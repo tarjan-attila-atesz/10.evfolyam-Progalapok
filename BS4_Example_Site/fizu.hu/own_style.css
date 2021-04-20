@@ -70,3 +70,11 @@ a.btn-green:hover {
     text-transform: uppercase;
     font-weight: 500;
 }
+
+.font-lg {
+    font-size: 1.4rem;
+}
+
+.bg-green {
+    background-color: rgba(171, 218, 101, 0.2);
+}
