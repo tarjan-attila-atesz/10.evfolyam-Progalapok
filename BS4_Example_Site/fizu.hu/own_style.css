@@ -78,3 +78,37 @@ a.btn-green:hover {
 .bg-green {
     background-color: rgba(171, 218, 101, 0.2);
 }
+
+.home-card {
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+.line {
+    margin: 0 0 1em;
+    line-height: 2em;
+    padding: 0;
+    color: white;
+    text-shadow: 1px 1px 1px #000;
+    font-size: 1.5rem;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+}
+
+.line:before,
+.line:after {
+    content: " ";
+    position: absolute;
+    top: 50%;
+    margin-left: -999em;
+    height: 2px;
+    width: 998em;
+    border-top: 1px solid #fff;
+    background-color: rgba(0, 0, 0, 0.19);
+}
+
+.line:after {
+    left: auto;
+    width: 999 em;
+    margin: 0 0 0 1em;
+}
