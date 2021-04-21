@@ -7,6 +7,8 @@ header {
     color: white;
     text-transform: uppercase;
     text-align: center;
+    height: 200px;
+    background-image: url("fejlec.jpg");
 }
 
 header h1 {
@@ -55,4 +57,5 @@ footer p {
 #eredmeny {
     background-color: rgb(200, 200, 200);
     font-weight: bold;
+    border: 1px solid #ffc107;
 }
