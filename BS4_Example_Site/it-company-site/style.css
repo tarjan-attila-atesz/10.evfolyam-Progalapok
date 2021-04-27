@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 body {
     font-family: 'Roboto', sans-serif;
-    color: #505962 overflow-x hidden;
+    color: #505962;
+    overflow-x: hidden;
 }
 
 
-/**Navigation Scrolling Offset*/
+/*=== Navigation Scrolling Offset ===*/
 
 .offset:before {
     height: 4rem;
@@ -15,7 +16,7 @@ body {
 }
 
 
-/**Navigation*/
+/* === Navigation ===*/
 
 .navbar {
     padding: .7rem 1rem;
