@@ -96,6 +96,44 @@ body {
 }
 
 
+/* === Features Page ===*/
+
+.narrow {
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 2rem;
+}
+
+.btn-sm {
+    border-width: medium;
+    border-radius: 0;
+    padding: .5rem 1.1rem;
+    font-size: .9rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin: 1px;
+}
+
+.btn-turquoise {
+    border-color: #1ebba3;
+    background-color: #1ebba3;
+    color: white;
+}
+
+.btn-turquoise:hover,
+.btn-turquoise:focus {
+    border-color: #189582;
+    background-color: #189582;
+    color: white;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+    border-radius: 0;
+    padding: 1rem 0 3rem;
+}
+
+
 /*============ BOOTSTRAP BREAK POINTS:
 
 Extra small (xs) devices (portrait phones, less than 576px)
