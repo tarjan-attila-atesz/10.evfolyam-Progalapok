@@ -1,0 +1,16 @@
+.jumbotron {
+    background-color: rgba(254, 12, 5, 0.3);
+}
+
+.main-topic {
+    margin: 0 auto;
+    padding: 1.5rem;
+    background-color: rgba(254, 185, 11, 0.5);
+}
+
+.col-topic {
+    margin: 0 auto;
+    background-color: rgba(56, 185, 11, 0.5);
+    font-size: 2rem;
+    font-weight: bold;
+}
